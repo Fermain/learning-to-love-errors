@@ -1,0 +1,7 @@
+{
+  "example": "Hello",
+  "nestedProperty": {
+    "abc": 123,
+    "hello": true
+  }
+}
